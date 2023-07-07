@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-viniciushora-red.svg)](https://www.linkedin.com/in/vinicius-hora/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
   <img src="banner.png" >
@@ -24,6 +24,8 @@ With a strong background in Economics and a proficiency in software development,
 - [Medium](https://medium.com/@viniciusghora)
 
 ## Projetos:
+
+- [Análise de imóveis no Rio de Janeiro - Airbnb](https://github.com/vinihora/portfolio_data_science/blob/main/projects/airbnb.ipynb)
 
 ## Artigos:
 
