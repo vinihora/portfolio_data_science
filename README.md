@@ -4,34 +4,33 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Vinicius Hora
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+<sub>Software Developer at Evolve Tec</sub>
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+As a graduate in Economics from the prestigious Brazilian Institute of Capital Markets (IBMEC) and an experienced software developer, I have successfully merged two of my core strengths: problem analysis derived from my background in economics, and the practical implementation of solutions through software development. This unique combination enables me to approach data science projects with a holistic perspective.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+To further enhance my skill set, I have delved into the world of Machine Learning, leveraging its power to augment decision-making processes. By incorporating ML techniques into my data-driven projects, I am able to extract valuable insights and unlock hidden patterns from complex datasets.
+
+My academic journey at IBMEC provided me with a solid foundation in the financial domain, equipping me with the necessary knowledge to navigate and understand the intricacies of the market. Furthermore, the institute's emphasis on utilizing cutting-edge technologies, including ML, has fostered my ability to leverage advanced tools and algorithms to deliver innovative solutions.
+
+With a strong background in Economics and a proficiency in software development, I am uniquely positioned to bridge the gap between data analysis and software engineering in the field of Data Science. I am excited to continue pushing the boundaries of innovation, applying my multidisciplinary expertise to solve complex problems and drive impactful business outcomes.
+
+**Background in:** Python, Machine Learning, Economic Sciences, JavaScript, Google Cloud Platform (GCP), Entrepreneurship
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
 
+- [LinkedIn](https://www.linkedin.com/in/vinicius-hora/)
+- [Medium](https://medium.com/@viniciusghora)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+- **Como implantar uma aplicação em django na plataforma da Google (GCP)?:** https://bit.ly/46EObFT
+- **Como as plataformas te recomendam produtos “perfeitos”?** https://bit.ly/3pGkjsf
+
+## Artigos:
+
+- **Como implantar uma aplicação em django na plataforma da Google (GCP)?:** https://bit.ly/46EObFT
+- **Como as plataformas te recomendam produtos “perfeitos”?** https://bit.ly/3pGkjsf
 
 ---
-
-
-
-
