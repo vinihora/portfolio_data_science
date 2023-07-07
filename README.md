@@ -25,9 +25,6 @@ With a strong background in Economics and a proficiency in software development,
 
 ## Projetos:
 
-- **Como implantar uma aplicação em django na plataforma da Google (GCP)?:** https://bit.ly/46EObFT
-- **Como as plataformas te recomendam produtos “perfeitos”?** https://bit.ly/3pGkjsf
-
 ## Artigos:
 
 - **Como implantar uma aplicação em django na plataforma da Google (GCP)?:** https://bit.ly/46EObFT
