@@ -26,6 +26,7 @@ With a strong background in Economics and a proficiency in software development,
 ## Projetos:
 
 - [Análise de imóveis no Rio de Janeiro - Airbnb](https://github.com/vinihora/portfolio_data_science/blob/main/projects/airbnb.ipynb)
+- [Análise de probabilidade de sobrevivência no Titanic](https://github.com/vinihora/portfolio_data_science/blob/main/projects/TItanic.ipynb)
 
 ## Artigos:
 
