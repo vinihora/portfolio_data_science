@@ -33,4 +33,8 @@ With a strong background in Economics and a proficiency in software development,
 - **Como implantar uma aplicação em django na plataforma da Google (GCP)?:** https://bit.ly/46EObFT
 - **Como as plataformas te recomendam produtos “perfeitos”?** https://bit.ly/3pGkjsf
 
+## Extras:
+
+- [**Implantando gráficos utilizando o matplotlib**](https://github.com/vinihora/portfolio_data_science/blob/main/extras/plotting_data_with_matplotlib.ipynb)
+
 ---
