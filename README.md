@@ -28,14 +28,18 @@ With a strong background in Economics and a proficiency in software development,
 - [Análise de imóveis no Rio de Janeiro - Airbnb](https://github.com/vinihora/portfolio_data_science/blob/main/projects/Analisando_os_Dados_do_Airbnb.ipynb)
 - [Análise de probabilidade de sobrevivência no Titanic](https://github.com/vinihora/portfolio_data_science/blob/main/projects/TItanic.ipynb)
 - [Análise do desempenho do Brasil durante o combate ao COVID-19](https://github.com/vinihora/portfolio_data_science/blob/main/projects/covid19_brasil_vs_desenvolvidos.ipynb)
-
+- [Análise do desempenho do Brasil durante o combate ao COVID-19](https://github.com/vinihora/portfolio_data_science/blob/main/projects/covid19_brasil_vs_desenvolvidos.ipynb)
+- [Implantando gráficos utilizando o matplotlib](https://github.com/vinihora/portfolio_data_science/blob/main/extras/plotting_data_with_matplotlib.ipynb)
+  
 ## Artigos:
 
-- **Como implantar uma aplicação em django na plataforma da Google (GCP)?:** https://bit.ly/46EObFT
-- **Como as plataformas te recomendam produtos “perfeitos”?** https://bit.ly/3pGkjsf
-
+- [**Como implantar uma aplicação em django na plataforma da Google (GCP)?:**](https://bit.ly/46EObFT)
+- [**Como as plataformas te recomendam produtos “perfeitos”?**](https://bit.ly/3pGkjsf)
+- [**Como escolher a proporção dos ativos em uma carteira com base em dados?**](https://bit.ly/471ffyV)
+- [**Como funciona a biblioteca Matplotlib? - Publicado na maior comunidade de dados do Brasil**](https://medium.com/data-hackers/como-funciona-a-biblioteca-matplotlib-57b92e47ab9a)
+  
 ## Extras:
 
-- [**Implantando gráficos utilizando o matplotlib**](https://github.com/vinihora/portfolio_data_science/blob/main/extras/plotting_data_with_matplotlib.ipynb)
+
 
 ---
