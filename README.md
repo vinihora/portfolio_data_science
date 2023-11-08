@@ -30,7 +30,7 @@
 - [Análise de imóveis no Rio de Janeiro - Airbnb](https://github.com/vinihora/portfolio_data_science/blob/main/projects/Analisando_os_Dados_do_Airbnb.ipynb)
 - [Análise de probabilidade de sobrevivência no Titanic](https://github.com/vinihora/portfolio_data_science/blob/main/projects/TItanic.ipynb)
 - [Análise do desempenho do Brasil durante o combate ao COVID-19](https://github.com/vinihora/portfolio_data_science/blob/main/projects/covid19_brasil_vs_desenvolvidos.ipynb)
-- [Análise do desempenho do Brasil durante o combate ao COVID-19](https://github.com/vinihora/portfolio_data_science/blob/main/projects/covid19_brasil_vs_desenvolvidos.ipynb)
+- [Modelo de distribuição de ativos em uma carteira](https://github.com/vinihora/portfolio_data_science/blob/main/projects/simulacao_markowitz_v2.ipynb)
 - [Implantando gráficos utilizando o matplotlib](https://github.com/vinihora/portfolio_data_science/blob/main/extras/plotting_data_with_matplotlib.ipynb)
   
 ## Artigos:
