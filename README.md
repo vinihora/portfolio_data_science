@@ -6,17 +6,19 @@
 
 # Vinicius Hora
 
-<sub>Software Developer at Evolve Tec</sub>
+💸 Economista formado pelo IBMEC-SP, durante minha formação optei por abordagens técnicas, incluindo análise de cenários, negócios, dados, tecnologias e finanças
 
-As a graduate in Economics from the prestigious Brazilian Institute of Capital Markets (IBMEC) and an experienced software developer, I have successfully merged two of my core strengths: problem analysis derived from my background in economics, and the practical implementation of solutions through software development. This unique combination enables me to approach data science projects with a holistic perspective.
+📈 Atualmente contribuo buscando soluções para problemas dentro das companhias, a partir da análise dos negócios, utilizando dados e mesclando a minha habilidade como economista a minha experiência com tecnologia
 
-To further enhance my skill set, I have delved into the world of Machine Learning, leveraging its power to augment decision-making processes. By incorporating ML techniques into my data-driven projects, I am able to extract valuable insights and unlock hidden patterns from complex datasets.
+📜 Sou certificado como 'Google Cloud Associate Engineer', 'Commerce Management Certification' e atualmente a caminho da minha certificação como 'Profissional Google Data Analytics'
 
-My academic journey at IBMEC provided me with a solid foundation in the financial domain, equipping me with the necessary knowledge to navigate and understand the intricacies of the market. Furthermore, the institute's emphasis on utilizing cutting-edge technologies, including ML, has fostered my ability to leverage advanced tools and algorithms to deliver innovative solutions.
+💻 Atuei como desenvolvedor durante 3 anos, incluindo tecnologias de front-end, back-end e SQL. Além de desempenhar funções de liderança como arquiteto de alguns projeto em que participei
 
-With a strong background in Economics and a proficiency in software development, I am uniquely positioned to bridge the gap between data analysis and software engineering in the field of Data Science. I am excited to continue pushing the boundaries of innovation, applying my multidisciplinary expertise to solve complex problems and drive impactful business outcomes.
+📘Escrevo alguns artigos e publicações relacionadas a minha área de atuação, que englobam: tecnologia, economia e dados
 
-**Background in:** Python, Machine Learning, Economic Sciences, JavaScript, Google Cloud Platform (GCP), Entrepreneurship
+▶️ Participei da criação de 4 novos negócios, ao qual somados atingiram cerca 1500 usuários ativos mensalmente.
+
+**Experiência em:** Python, Machine Learning, Economia, JavaScript, Google Cloud Platform (GCP), Inovação
 
 **Links:**
 
@@ -37,9 +39,5 @@ With a strong background in Economics and a proficiency in software development,
 - [**Como as plataformas te recomendam produtos “perfeitos”?**](https://bit.ly/3pGkjsf)
 - [**Como escolher a proporção dos ativos em uma carteira com base em dados?**](https://bit.ly/471ffyV)
 - [**Como funciona a biblioteca Matplotlib? - Publicado na maior comunidade de dados do Brasil**](https://medium.com/data-hackers/como-funciona-a-biblioteca-matplotlib-57b92e47ab9a)
-  
-## Extras:
-
-
 
 ---
