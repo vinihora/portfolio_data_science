@@ -32,6 +32,7 @@
 - [Análise do desempenho do Brasil durante o combate ao COVID-19](https://github.com/vinihora/portfolio_data_science/blob/main/projects/covid19_brasil_vs_desenvolvidos.ipynb)
 - [Modelo de distribuição de ativos em uma carteira](https://github.com/vinihora/portfolio_data_science/blob/main/projects/simulacao_markowitz_v2.ipynb)
 - [Implantando gráficos utilizando o matplotlib](https://github.com/vinihora/portfolio_data_science/blob/main/extras/plotting_data_with_matplotlib.ipynb)
+- [Selecionando as melhores features para um modelo de classificação](https://github.com/vinihora/portfolio_data_science/blob/main/projects/selecao_features.ipynb)
   
 ## Artigos:
 
@@ -39,5 +40,5 @@
 - [**Como as plataformas te recomendam produtos “perfeitos”?**](https://bit.ly/3pGkjsf)
 - [**Como escolher a proporção dos ativos em uma carteira com base em dados?**](https://bit.ly/471ffyV)
 - [**Como funciona a biblioteca Matplotlib? - Publicado na maior comunidade de dados do Brasil**](https://medium.com/data-hackers/como-funciona-a-biblioteca-matplotlib-57b92e47ab9a)
-
+- [**melhores variáveis para melhorar o seu modelo?**](https://www.linkedin.com/pulse/como-selecionar-melhores-variáveis-para-melhorar-o-seu-vinicius-hora-dbbme/)
 ---
