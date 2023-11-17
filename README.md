@@ -40,5 +40,5 @@
 - [**Como as plataformas te recomendam produtos “perfeitos”?**](https://bit.ly/3pGkjsf)
 - [**Como escolher a proporção dos ativos em uma carteira com base em dados?**](https://bit.ly/471ffyV)
 - [**Como funciona a biblioteca Matplotlib? - Publicado na maior comunidade de dados do Brasil**](https://medium.com/data-hackers/como-funciona-a-biblioteca-matplotlib-57b92e47ab9a)
-- [**melhores variáveis para melhorar o seu modelo?**](https://www.linkedin.com/pulse/como-selecionar-melhores-variáveis-para-melhorar-o-seu-vinicius-hora-dbbme/)
+- [**Como selecionar as melhores variáveis para melhorar o seu modelo?**](https://www.linkedin.com/pulse/como-selecionar-melhores-variáveis-para-melhorar-o-seu-vinicius-hora-dbbme/)
 ---
